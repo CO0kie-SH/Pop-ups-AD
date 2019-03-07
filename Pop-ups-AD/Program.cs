@@ -95,7 +95,6 @@ namespace Pop_ups_AD
                 }
                 if (i > 0) Console.Write("\n");
                 //Console.Read();
-
             }
             return true;
         }
