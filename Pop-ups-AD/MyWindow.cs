@@ -90,5 +90,6 @@ namespace Pop_ups_AD
             info.szClassName = sb.ToString();
             return info;
         }
+
     }
 }
