@@ -26,3 +26,6 @@ https://blog.csdn.net/qq_30050303/article/details/51353542
 C#多线程开发2：线程挂起，恢复与中止等操作 - 三五月儿的专栏 - CSDN博客
 <br>
 https://blog.csdn.net/yl2isoft/article/details/11892705
+<br>
+黄聪：详解 ManualResetEvent（转） - 黄聪 - 博客园
+https://www.cnblogs.com/huangcong/p/5633456.html
