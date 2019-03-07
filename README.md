@@ -15,3 +15,6 @@ https://blog.csdn.net/u011127019/article/details/53022821
 <br>
 用代码关闭程序的正确做法!---向窗口发送WM_CLOSE消息 - 迎难而上 - CSDN博客
 https://blog.csdn.net/u010003835/article/details/47303615
+<br>
+MFC消息大全 - 生命不止，奋斗不息 - CSDN博客
+https://blog.csdn.net/qq_30050303/article/details/51353542
