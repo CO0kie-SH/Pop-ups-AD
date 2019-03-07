@@ -20,4 +20,5 @@ WM_CLOSE、WM_DESTROY、WM_QUIT的区别（询问，销毁窗口，退出进程�
 http://www.cnblogs.com/findumars/p/5811365.html
 <br>
 MFC消息大全 - 生命不止，奋斗不息 - CSDN博客
+<br>
 https://blog.csdn.net/qq_30050303/article/details/51353542
