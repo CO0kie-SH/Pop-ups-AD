@@ -94,7 +94,6 @@ namespace Pop_ups_AD
                         info.hWnd, info.szWindowName, info.szClassName);
                 }
                 if (i > 0) Console.Write("\n");
-
                 //Console.Read();
             }
             return true;

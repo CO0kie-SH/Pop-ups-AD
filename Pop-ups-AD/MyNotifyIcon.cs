@@ -53,7 +53,6 @@ namespace Pop_ups_AD
                         Program.sea.Set();
                         Console.WriteLine(DateTime.Now.ToString() + "检测线程已恢复！");
                         e.ClickedItem.Text = "暂停检测";
-
                     }
                     else
                     {
