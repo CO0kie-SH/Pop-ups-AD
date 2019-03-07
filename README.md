@@ -22,3 +22,7 @@ http://www.cnblogs.com/findumars/p/5811365.html
 MFC消息大全 - 生命不止，奋斗不息 - CSDN博客
 <br>
 https://blog.csdn.net/qq_30050303/article/details/51353542
+<br>
+C#多线程开发2：线程挂起，恢复与中止等操作 - 三五月儿的专栏 - CSDN博客
+<br>
+https://blog.csdn.net/yl2isoft/article/details/11892705
