@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Pop_ups_AD
 {
-    class Program
+    class MyWindow
     {
-        static void Main(string[] args)
-        {
-            //
-        }
+
     }
 }
