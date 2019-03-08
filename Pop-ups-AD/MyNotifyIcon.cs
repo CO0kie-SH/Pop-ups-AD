@@ -12,6 +12,8 @@ namespace Pop_ups_AD
         public MyNotifyIcon(IntPtr hwnd)
         {
             _hwnd = hwnd;
+            _isShow = false;
+            MyWindow.ShowWindow(_hwnd, _isShow ? 1 : 0);
             _NotifyIcon.Icon = new System.Drawing.Icon(@"D:\aa\6981\b5.ico");
             ContextMenuStrip menu = new ContextMenuStrip();
             menu.RenderMode = ToolStripRenderMode.System;
@@ -65,6 +67,7 @@ namespace Pop_ups_AD
                     break;
             }
         }
+
 
         #region 禁用关闭按钮
         /// <summary>
