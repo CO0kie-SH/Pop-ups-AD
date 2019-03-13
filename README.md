@@ -28,4 +28,11 @@ C#多线程开发2：线程挂起，恢复与中止等操作 - 三五月儿的�
 https://blog.csdn.net/yl2isoft/article/details/11892705
 <br>
 黄聪：详解 ManualResetEvent（转） - 黄聪 - 博客园
+<br>
 https://www.cnblogs.com/huangcong/p/5633456.html
+
+
+<br>
+WM_CLOSE、WM_DESTROY、WM_QUIT的区别（询问，销毁窗口，退出进程，都不是一回事） - findumars - 博客园
+<br>
+https://www.cnblogs.com/findumars/p/5811365.html
